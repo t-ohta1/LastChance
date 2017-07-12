@@ -1,0 +1,11 @@
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\bin\Debug\CalculationTest.exe.config
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\bin\Debug\CalculationTest.exe
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\bin\Debug\CalculationTest.pdb
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\bin\Debug\CalculationTest.xml
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.vbprojResolveAssemblyReference.cache
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.Form1.resources
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.Resources.resources
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.vbproj.GenerateResource.Cache
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.exe
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.xml
+C:\Users\t-ohta\AppData\Local\Temporary Projects\CalculationTest\obj\Debug\CalculationTest.pdb
