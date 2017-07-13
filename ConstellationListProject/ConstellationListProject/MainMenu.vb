@@ -12,6 +12,7 @@
         Dim seasonCode = FindSeasonalCode(dtNow)
         Console.WriteLine(seasonCode)
 
+
         'Label1表示処理
         DispLabel1(seasonCode)
 
