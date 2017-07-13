@@ -120,6 +120,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MaintenanceMenu.resx">
       <DependentUpon>MaintenanceMenu.vb</DependentUpon>
     </EmbeddedResource>
