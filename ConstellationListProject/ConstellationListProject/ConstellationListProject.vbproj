@@ -72,12 +72,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstellationMaintenance.Designer.vb">
-      <DependentUpon>ConstellationMaintenance.vb</DependentUpon>
-    </Compile>
-    <Compile Include="ConstellationMaintenance.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Login.Designer.vb">
       <DependentUpon>Login.vb</DependentUpon>
     </Compile>
@@ -109,12 +103,6 @@
       <DependentUpon>Search.vb</DependentUpon>
     </Compile>
     <Compile Include="Search.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UserMaintenance.Designer.vb">
-      <DependentUpon>UserMaintenance.vb</DependentUpon>
-    </Compile>
-    <Compile Include="UserMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
