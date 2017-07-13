@@ -72,6 +72,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Connection.vb" />
     <Compile Include="ConstellationMaintenance.Designer.vb">
       <DependentUpon>ConstellationMaintenance.vb</DependentUpon>
@@ -79,6 +80,8 @@
     <Compile Include="ConstellationMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> ff59407d7852a77619fe093b0aa263489adc586f
     <Compile Include="Login.Designer.vb">
       <DependentUpon>Login.vb</DependentUpon>
     </Compile>
@@ -89,6 +92,18 @@
       <DependentUpon>MainMenu.vb</DependentUpon>
     </Compile>
     <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaintenanceMenu.Designer.vb">
+      <DependentUpon>MaintenanceMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MaintenanceMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterMaintenance.Designer.vb">
+      <DependentUpon>MasterMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -112,6 +127,7 @@
     <Compile Include="Search.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="SearchDao.vb" />
     <Compile Include="UserMaintenance.Designer.vb">
       <DependentUpon>UserMaintenance.vb</DependentUpon>
@@ -119,8 +135,19 @@
     <Compile Include="UserMaintenance.vb">
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> ff59407d7852a77619fe093b0aa263489adc586f
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaintenanceMenu.resx">
+      <DependentUpon>MaintenanceMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterMaintenance.resx">
+      <DependentUpon>MasterMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
