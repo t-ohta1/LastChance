@@ -1,0 +1,10 @@
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\bin\Debug\ConstellationListProject.exe.config
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\bin\Debug\ConstellationListProject.exe
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\bin\Debug\ConstellationListProject.pdb
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\bin\Debug\ConstellationListProject.xml
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.vbprojResolveAssemblyReference.cache
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.Resources.resources
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.vbproj.GenerateResource.Cache
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.exe
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.xml
+C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.pdb
