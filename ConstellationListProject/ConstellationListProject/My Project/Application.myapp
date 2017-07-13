@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MySubMain>true</MySubMain>
+<<<<<<< HEAD
   <MainForm>Search</MainForm>
+=======
+<<<<<<< HEAD
+  <MainForm>MainMenu</MainForm>
+=======
+  <MainForm>Login</MainForm>
+>>>>>>> ff59407d7852a77619fe093b0aa263489adc586f
+>>>>>>> 1b5fda90d3607ecd764f440a69621ecb474177ae
   <SingleInstance>false</SingleInstance>
   <ShutdownMode>0</ShutdownMode>
   <EnableVisualStyles>true</EnableVisualStyles>
