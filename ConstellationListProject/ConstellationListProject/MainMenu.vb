@@ -91,4 +91,11 @@
         My.Application.ApplicationContext.MainForm = searchForm
         Me.Dispose()
     End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+
+        MaintenanceMenu.Show()
+        My.Application.ApplicationContext.MainForm = MaintenanceMenu
+        Me.Close()
+    End Sub
 End Class
