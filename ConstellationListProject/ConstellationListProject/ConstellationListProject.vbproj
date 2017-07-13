@@ -72,6 +72,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection.vb" />
     <Compile Include="ConstellationMaintenance.Designer.vb">
       <DependentUpon>ConstellationMaintenance.vb</DependentUpon>
     </Compile>
@@ -111,6 +112,7 @@
     <Compile Include="Search.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="SearchDao.vb" />
     <Compile Include="UserMaintenance.Designer.vb">
       <DependentUpon>UserMaintenance.vb</DependentUpon>
     </Compile>
@@ -124,6 +126,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

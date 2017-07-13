@@ -8,3 +8,14 @@ C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\De
 C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.exe
 C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.xml
 C:\Users\t-ohta\AppData\Local\Temporary Projects\ConstellationListProject\obj\Debug\ConstellationListProject.pdb
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\bin\Debug\ConstellationListProject.exe.config
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\bin\Debug\ConstellationListProject.exe
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\bin\Debug\ConstellationListProject.pdb
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\bin\Debug\ConstellationListProject.xml
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.vbprojResolveAssemblyReference.cache
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.Resources.resources
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.Search.resources
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.vbproj.GenerateResource.Cache
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.exe
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.xml
+C:\Users\k-saitou\Documents\GitHub\LastChance\ConstellationListProject\ConstellationListProject\obj\Debug\ConstellationListProject.pdb

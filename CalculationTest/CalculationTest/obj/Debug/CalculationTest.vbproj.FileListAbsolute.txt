@@ -20,3 +20,14 @@ C:\Users\t-ohta\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\
 C:\Users\t-ohta\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.exe
 C:\Users\t-ohta\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.xml
 C:\Users\t-ohta\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.pdb
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\bin\Debug\CalculationTest.exe.config
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\bin\Debug\CalculationTest.exe
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\bin\Debug\CalculationTest.pdb
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\bin\Debug\CalculationTest.xml
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.vbprojResolveAssemblyReference.cache
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.Form1.resources
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.Resources.resources
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.vbproj.GenerateResource.Cache
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.exe
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.xml
+C:\Users\k-saitou\Documents\GitHub\LastChance\CalculationTest\CalculationTest\obj\Debug\CalculationTest.pdb
